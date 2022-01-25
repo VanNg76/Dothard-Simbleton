@@ -25,7 +25,8 @@ const agentHTMLString = createAgentHTMLString(agentArray)
 document.getElementById("Agents").innerHTML = agentHTMLString
 
 // Find company
-document.getElementById("foundCompanies").innerHTML = "'
+
+// document.getElementById("foundCompanies").innerHTML = ""
 
 
 
